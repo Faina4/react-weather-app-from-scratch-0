@@ -1,0 +1,19 @@
+.border-custom {
+    border: 5px solid #f8fcde;
+  }
+  #search-button {
+    display: block;
+    border: 1px solid #bfbed8;
+    background-color: var(--background-secondary-color);
+    color: black;
+    width: 20%;
+  }
+  .form-parameters{
+    height: 46px;
+  }
+ li .CurrentForecast{
+list-style: none;
+  }
+  .CurrentForecast{
+    padding: 0;
+  }
